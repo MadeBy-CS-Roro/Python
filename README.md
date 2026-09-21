@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://via.placeholder.com/800x200/2A3B4C/FFFFFF?text=Python+Programming+(CSC+216)" alt="Python Banner">
 
   # 🐍 Python Programming (CSC 216)
   
