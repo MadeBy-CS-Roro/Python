@@ -26,7 +26,7 @@ Throughout this repository, I implement and utilize:
 - [x] Logic Building & Algorithmic Thinking
 
 ## 💻 Technologies & Tools
-*   **Language:** Python 3
+*   **Language:** Python 
 *   **Environment:** VS Code
 *   **Focus:** Writing Pythonic, scalable, and readable code.
 
@@ -37,4 +37,4 @@ Python is a versatile powerhouse. Mastering it is not only a core requirement fo
 <div align="center">
   <b>Developed with passion by Reema</b><br><br>
   <a href="https://www.linkedin.com/in/reema-alshowiman">Connect with me on LinkedIn</a>
-</div># Python
+</div>
